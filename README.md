@@ -2,8 +2,8 @@
 Angular Study purpose
 
 ## Frontend
-* Type Script
 * Angular 10
+* TypeScript
 * HTML/CSS
 
 ## Backend
